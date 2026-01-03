@@ -3,7 +3,7 @@
 - 🧑🏻‍🎓 Final-year student in **Computer Science and Telecommunications** 
 - ⚛️ Currently learning [React](https://react.dev) ⚛️
 
-<img align="right" width="100" height="100" src="source.gif">
+<img align="right" width="400" height="400" src="source.gif">
 
 ### 💻 What I enjoy working on 💡
 - Embedded systems & IoT using **Arduino and ESP32** 🔌
